@@ -1,4 +1,0 @@
-class selection_sort {
-    
-    
-}
